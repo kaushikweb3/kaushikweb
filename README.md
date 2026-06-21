@@ -1,2 +1,2 @@
 # kaushikweb
-This is devops_1 repo.
+This is devops_1 and linux_1 repo.
